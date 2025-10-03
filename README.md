@@ -8,6 +8,7 @@ Individual scrapers for sites primarily focusing on Cybersecurity sites/blogs, t
 - Cisco Talos
 - Nviso Labs
 - Synacktiv
+- Elastic Security Labs
 
 ### Usage
 ```python <scraper_name>.py```
