@@ -5,6 +5,9 @@ Individual scrapers for sites primarily focusing on Cybersecurity sites/blogs, t
 - Mandiant
 - Kaspersky
 - Crowdstrike
+- Cisco Talos
+- Nviso Labs
+- Synacktiv
 
 ### Usage
 ```python <scraper_name>.py```
